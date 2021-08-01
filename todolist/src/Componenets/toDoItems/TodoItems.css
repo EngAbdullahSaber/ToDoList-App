@@ -1,0 +1,42 @@
+.listItems{
+    background-color: #fff;
+    color: #46529d;
+}
+.listItems p{
+    margin: 0;
+    text-align: center;
+    padding: 10px 0px;
+}
+.listItems span {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #fff;
+    color: black;
+    font-size: 20px ;
+    border: 0.3px solid #ccc;
+}
+.listItems span.title{
+    color: #fff;
+    background-color: #2ebaee;
+
+}
+.listItems span.name{
+    width: 60%;
+}
+
+.listItems span.age{
+    width: 30%;
+}
+.listItems span.action{
+    width: 10%;
+}
+.listItems span.icon{
+    cursor: pointer;
+    color: #2ebaee;
+}
+
+
+
+
+
